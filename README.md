@@ -1,3 +1,3 @@
 # desafio-github
 
-Repositório criado para desafio do projeto.
+Repositório criado para desafio do projeto 😃
